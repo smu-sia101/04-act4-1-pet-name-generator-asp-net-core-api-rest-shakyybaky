@@ -1,0 +1,6 @@
+@RandomPetGenerator_HostAddress = http://localhost:5082
+
+GET {{RandomPetGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
